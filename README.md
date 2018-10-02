@@ -1,2 +1,2 @@
 # Research-Paper
-Read and Writeh Research Paper
+Read and Write Research Papers
